@@ -1,0 +1,2 @@
+class BandbsController < ApplicationController
+end
